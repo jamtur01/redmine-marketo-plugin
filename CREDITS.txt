@@ -1,0 +1,6 @@
+Thanks go to the following people for patches and contributions:
+
+Original concept
+
+* Eric Davis of Little Stream Software
+

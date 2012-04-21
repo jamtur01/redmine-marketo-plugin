@@ -1,0 +1,6 @@
+# English strings go here
+marketo_directions: Enter your <a href="http://www.marketo.com/">Marketo</a> JavaScript code into the area below and choose your logging options.
+marketo_code_label: Marketo code (including script tags)
+marketo_log_anonymous_label: Log anonymous users
+marketo_log_authenticated_label: Log authenticated user
+marketo_log_administrator_label: Log administrator users

@@ -1,0 +1,6 @@
+hu:
+  marketo_directions: 'Add meg a te <a href="http://www.marketo.com/">Marketo</a> JavaScript kódodat a lenti mezőben és válaszd ki a naplózási beállításokat.'
+  marketo_code_label: Marketo kód (script címkékkel együtt)
+  marketo_log_anonymous_label: Anoním felhasználók naplója
+  marketo_log_authenticated_label: Azonosított felhasználók naplója
+  marketo_log_administrator_label: Adminisztrátor felhasználók naplója

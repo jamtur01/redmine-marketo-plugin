@@ -1,0 +1,20 @@
+<p>
+  <%= l(:marketo_directions) %>
+</p>
+
+<p>
+  <label><%= l(:marketo_code_label) %></label><%= text_area_tag 'settings[marketo_code]', @settings['marketo_code'], :rows => 10, :cols => 85 %>
+</p>
+
+<p>
+  <label><%= l(:marketo_log_anonymous_label) %></label><%= check_box_tag 'settings[marketo_log_anonymous]', '1', @settings['marketo_log_anonymous'] %>
+</p>
+
+<p>
+  <label><%= l(:marketo_log_authenticated_label) %></label><%= check_box_tag 'settings[marketo_log_authenticated]', '1', @settings['marketo_log_authenticated'] %>
+</p>
+
+<p>
+  <label><%= l(:marketo_log_administrator_label) %></label><%= check_box_tag 'settings[marketo_log_administrator]', '1', @settings['marketo_log_administrator'] %>
+</p>
+

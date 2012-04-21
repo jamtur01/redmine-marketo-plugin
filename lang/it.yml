@@ -1,0 +1,5 @@
+marketo_directions: Scrivi il codice JavaScript di Marketo nel campo qui sotto e scegli le opzioni di logging.
+marketo_code_label: Codice Marketo (incluso il tag script)
+marketo_log_anonymous_label: Traccia utenti anonimi
+marketo_log_authenticated_label: Traccia utenti autenticati
+marketo_log_administrator_label: Traccia amministratori
